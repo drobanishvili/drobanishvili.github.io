@@ -3,5 +3,5 @@
 **Репозиторий Робанишвили Дениса**
 
 * Скринкаст с субтитрами
-![ScreenCast.png](https://www.youtube.com/embed/2hyPGhLauT8)
+![https://github.com/drobanishvili/drobanishvili.github.io/blob/master/ScreenCast.png](https://www.youtube.com/embed/2hyPGhLauT8)
 
