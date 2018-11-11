@@ -3,5 +3,5 @@
 **Репозиторий Робанишвили Дениса**
 
 * Скринкаст с субтитрами
-* ![Скринкаст с субтитрами](https://www.youtube.com/embed/2hyPGhLauT8)
+* ![Скринкаст с субтитрами](https://www.youtube.com/watch?time_continue=4&v=2hyPGhLauT8)
 
