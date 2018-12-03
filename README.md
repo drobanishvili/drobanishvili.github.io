@@ -1,6 +1,6 @@
 # **Репозиторий Робанишвили Дениса**
 
-### * [![Скринкаст](https://i.ytimg.com/vi/2hyPGhLauT8/hqdefault.jpg)](https://www.youtube.com/watch?time_continue=4&v=2hyPGhLauT8)
+### [![Скринкаст](https://i.ytimg.com/vi/2hyPGhLauT8/hqdefault.jpg)](https://www.youtube.com/watch?time_continue=4&v=2hyPGhLauT8)
 
 # Анализ лицензий #
 
@@ -51,4 +51,5 @@ Apache License
 Разумеется, право на изменение лицензии не означает возможности её отзыва. Никто не имеет права менять условия, которые уже были однажды определены.
 
 ##Задания
+
 [1.1 Конспект]
